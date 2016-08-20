@@ -1,9 +1,9 @@
 # ident_sim
-Creates percent identity and percent similarity values from protein multiple sequence alignments.
+## Creates percent identity and percent similarity values from protein multiple sequence alignments.
 
-Inspired by the Ident and Sim of Sequence Manipulation Suite (SMS, http://www.bioinformatics.org/sms2/ident_sim.html). The SMS Ident and Sim has an input limit of 20,000 characters, which imposes limitations on its use. ident_sim is produced because of this limitation.
+### Inspired by the Ident and Sim of Sequence Manipulation Suite (SMS, http://www.bioinformatics.org/sms2/ident_sim.html). The SMS Ident and Sim has an input limit of 20,000 characters, which imposes limitations on its use. ident_sim is produced because of this limitation.
 
-For quality control purposes, below is the input and output from the SMS Ident and Sim demo:
+#### For quality control purposes, below is the input and output from the SMS Ident and Sim demo:
 
 Input:
 >CremaneiFEM-2
